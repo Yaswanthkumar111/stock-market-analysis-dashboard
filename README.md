@@ -3,7 +3,7 @@
 ## Overview
 #### This project focuses on analyzing historical stock market data to understand price trends, volatility, and trading behavior. The goal was to build a complete data analytics pipeline starting from raw data processing to interactive dashboard creation.
 
-## Objective
+## Objective 
 #### The main objective of this project is to:
 * Analyze stock price movements over time
 * Identify patterns using moving averages
@@ -44,3 +44,25 @@
 * Moving averages help identify trend direction
 * Volatility indicates risk levels in the market
 * Trading volume reflects investor activity
+
+## ⚠ Challenges Faced
+- Issues while importing data into MySQL  
+- Date format mismatch errors  
+- Initial confusion in Power BI visualization 
+
+## Dashboard
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dab4dec5-91b4-4b58-9d8c-f1e76f825b1e" alt="power_BI_page1" width="792">
+</p>
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/21889081-695b-42b1-ad55-c7ff36646515" alt="power_BI_page2" width="792">
+</p>
+
+## ✅ Conclusion
+This project helped me understand the complete data analytics workflow from data preprocess.
+
+## ▶ How to Run
+1. Load dataset into MySQL using SQL file  
+2. Open Power BI file  
+3. Explore dashboard visuals 
